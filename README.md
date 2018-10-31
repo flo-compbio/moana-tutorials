@@ -1,6 +1,6 @@
 ## Overview
 
-This repository contains tutorials for how to use the Moana Python package to cluster and classify scRNA-Seq data by cell type. Currently, the tutorials only cover some basic functionalities, including data preprocessing, clustering, and cell type prediction with an existing classifier. Additional tutorials showing how to construct a new Moana classifier are forthcoming.
+This repository contains tutorials for how to use the Moana Python package to analyze scRNA-Seq data. Currently, the tutorials only cover some basic functionalities, including data preprocessing, cell type prediction using an existing classifier, and clustering. Additional tutorials showing how you can construct your own Moana classifier are forthcoming.
 
 The repostitory for the Moana Python package is located at https://github.com/yanailab/moana.
 
